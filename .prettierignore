@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 *.env
 .env
 .env.*
 /.vscode
 /node_modules
+=======
+*.env
+.env
+.env.*
+/.vscode
+/node_modules
+>>>>>>> c3b1482 (Learned about Utils)
 ./dist

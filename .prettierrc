@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 {
     "singleQuote": false,
     "bracketSpacing": true,
     "tabWidth": 2,
     "trailingComma": "es5",
     "semi": true
+=======
+{
+    "singleQuote": false,
+    "bracketSpacing": true,
+    "tabWidth": 2,
+    "trailingComma": "es5",
+    "semi": true
+>>>>>>> c3b1482 (Learned about Utils)
 }
